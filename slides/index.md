@@ -1,10 +1,7 @@
-
 # Enumerator::Lazy
 
-From the terminal, pop in:
+LINQ とか勉強会
 
-  ```yo reveal:slide "Slide Title"```
+2016/01/23 (土)
 
-Available options:
-
- ```--markdown --attributes --notes```
+政倉 智
